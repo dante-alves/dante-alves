@@ -1,11 +1,11 @@
-# 👋 Olá, eu me chamo Dante
+# Olá, eu me chamo Dante
 | Estudante de Ciência da Computação
 
 | Focado em backend e desenvolvimento web
 
 | Brasil
 
-## 💻 Tecnologias
+## Tecnologias
 - Python / Django, FastAPI
 - Java / Springboot 
 - Docker
@@ -13,7 +13,7 @@
 - Git / GitHub / GitLab 
 - APIs REST
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ### Anamnese Digital
 | Projeto desenvolvido na Fábrica de Software da Unipe.<br>
@@ -28,4 +28,4 @@ Plataforma fullstack para digitalização e gestão de anamneses médicas, permi
 - Correções e melhorias na documentação Swagger  
 - Integração com backend existente
 
-🔗 Repositório: [(Anamnese Digital)](https://gitlab.com/repositoriodafabrica/ex2025_2_anamnese_digital_walace.git)
+| Repositório: [(Anamnese Digital)](https://gitlab.com/repositoriodafabrica/ex2025_2_anamnese_digital_walace.git)
