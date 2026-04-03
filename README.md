@@ -1,6 +1,8 @@
 # 👋 Olá, eu me chamo Dante
 | Estudante de Ciência da Computação
-| Focado em backend e desenvolvimento web  
+
+| Focado em backend e desenvolvimento web
+
 | Brasil
 
 ## 💻 Tecnologias
