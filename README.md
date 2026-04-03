@@ -28,4 +28,4 @@ Plataforma fullstack para digitalização e gestão de anamneses médicas, permi
 - Correções e melhorias na documentação Swagger  
 - Integração com backend existente
 
-| Repositório: [(Anamnese Digital)](https://gitlab.com/repositoriodafabrica/ex2025_2_anamnese_digital_walace.git)
+| Repositório: [([Anamnese Digital)](https://gitlab.com/repositoriodafabrica/ex2025_2_anamnese_digital_walace)]
